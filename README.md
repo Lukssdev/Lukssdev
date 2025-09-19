@@ -2,15 +2,14 @@
 
 Sou apaixonado por tecnologia e desenvolvimento.  
 Gosto de criar projetos que me desafiam e me ajudam a aprender coisas novas.  
-Atualmente estou estudando **React, Node.js e TypeScript** e sempre buscando melhorar minhas habilidades.
+Atualmente estou estudando **PHP e Laravel** e sempre buscando melhorar minhas habilidades.
 
 ---
 
 ##  O que estou fazendo
 - Desenvolvendo projetos pessoais de front-end e back-end  
-- Estudando boas práticas de código e arquitetura  
-- Interessado em colaborar em projetos open source  
-
+- Estudando boas práticas de código e arquitetura
+- Cursando o segundo ano do ensino médio
 ---
 
 ### 📊 Estatísticas
