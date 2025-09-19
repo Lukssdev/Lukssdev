@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Lucas Pacheco (Lukssdev)
+## 👋 Olá, eu sou o Lucas Pacheco 
 
 Sou apaixonado por tecnologia e desenvolvimento.  
 Gosto de criar projetos que me desafiam e me ajudam a aprender coisas novas.  
